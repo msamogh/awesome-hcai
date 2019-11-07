@@ -1,8 +1,8 @@
 # Awesome Explainable AI
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of resources on Explainable AI and related fields
 
-A curated list of resources on Explainable AI and related fields
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Research Groups
 1. [Holzinger Group](https://human-centered.ai/project/kandinsky-patterns/)
