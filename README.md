@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of resources on Social Computing, Explainable, Interactive ML, and related fields.
+> A curated list of resources on Social Computing, Explainable AI, Interactive ML, and related fields.
 
 ## Research Groups
 1. [Holzinger Group](https://human-centered.ai/project/kandinsky-patterns/)
