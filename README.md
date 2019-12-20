@@ -29,3 +29,4 @@
 
 ## Courses
 1. [Machine Learning Explainability - Kaggle](https://www.kaggle.com/learn/machine-learning-explainability)
+2. [The Interpretable Machine Learning book](https://christophm.github.io/interpretable-ml-book/)
