@@ -25,6 +25,9 @@
 1. [Explained.ai](http://explained.ai)
 2. [Papers in Plain Language: What's in an Explanation?](http://cognitiveai.org/2019/03/10/papers-in-plain-language-whats-in-an-explanation-characterizing-knowledge-and-inference-requirements-for-elementary-science-exams-coling-2016/)
 
+## Papers
+1. [HELP - Human Assisted Efficient Learning Protocols](https://www.cc.gatech.edu/~ksubrama/files/Thesis_Kaushik.pdf)
+
 ## Videos
 1. [Interactive Machine Learning: How Machines Learn Best From Humans](https://www.youtube.com/watch?v=mog8r2AqW94)
 
