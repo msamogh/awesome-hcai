@@ -25,6 +25,9 @@
 1. [Explained.ai](http://explained.ai)
 2. [Papers in Plain Language: What's in an Explanation?](http://cognitiveai.org/2019/03/10/papers-in-plain-language-whats-in-an-explanation-characterizing-knowledge-and-inference-requirements-for-elementary-science-exams-coling-2016/)
 
+## Websites
+1. [HitAI (Human-in-the-loop Artificial Intelligence)](https://sites.google.com/view/hitai/hitai-home?authuser=0)
+
 ## Papers
 1. [HELP - Human Assisted Efficient Learning Protocols](https://www.cc.gatech.edu/~ksubrama/files/Thesis_Kaushik.pdf)
 
@@ -34,3 +37,7 @@
 ## Courses
 1. [Machine Learning Explainability - Kaggle](https://www.kaggle.com/learn/machine-learning-explainability)
 2. [The Interpretable Machine Learning book](https://christophm.github.io/interpretable-ml-book/)
+
+## Conferences and Workshops
+1. [Human In The Loop Machine Learning (ICML Worskhop 2017)](https://machlearn.gitlab.io/hitl2017/)
+2. [HumL@ISWC2018](https://humlworkshop.github.io/HumL-WWW2018/)
